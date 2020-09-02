@@ -47,15 +47,15 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Yes, it's the version that's recommended by everything I've read and was mandated in my Beginner Python and Math for Data Science course
 
 ### Q2. Which Python Version Installed   
 
 In the Terminal:
 
-`python3 --version`
+`python3 --version
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3.7.6
 
  
 
